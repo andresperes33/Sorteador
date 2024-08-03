@@ -1,0 +1,75 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.escrever {
+    display: flex;
+    justify-content: center;
+
+    height: 40px;
+    gap: 100px;
+
+
+}
+
+input {
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 30px;
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.25);
+    color: white;
+
+
+
+}
+
+.botao {
+
+    display: flex;
+    justify-content: center;
+    padding: 120px;
+}
+
+button {
+    background: rgba(174, 195, 70, 1);
+    width: 342px;
+    height: 72px;
+    top: 858px;
+    left: 849px;
+    gap: 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    font-size: 36px;
+    color: white;
+    cursor: pointer;
+
+}
+
+button:hover{
+    opacity: 0.8;
+    background-color: chartreuse;
+    color: white;
+
+}
