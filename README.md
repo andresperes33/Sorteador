@@ -20,7 +20,7 @@ A aplicação permite ao usuário sortear um número aleatório dentro de um int
 
 ## 🖼️ Screenshot
 
-(img/sorteador-foto.png)
+![Descrição da imagem](img/sorteador-foto.png)
 
 ## 🎨 Estilos CSS
 
